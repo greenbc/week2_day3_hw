@@ -3,4 +3,4 @@ def sqft(l,w):
 
 def circumference(r):
     import math
-    return math.pi*(r**2)
+    return math.pi*r*2
